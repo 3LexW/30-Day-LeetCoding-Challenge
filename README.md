@@ -9,3 +9,4 @@ The page contains the code and explanation, for self study and review.
 - Day 3: Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - Day 4: Move Zeroes - https://leetcode.com/problems/move-zeroes/
 - Day 5: Best Time to Buy and Sell Stock II - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+- Day 6: Group Anagrams - https://leetcode.com/problems/group-anagrams/
