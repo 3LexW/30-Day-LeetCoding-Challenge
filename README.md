@@ -17,3 +17,4 @@ The page contains the code and explanation, for self study and review.
 - Day 8: Middle of the Linked List - https://leetcode.com/problems/middle-of-the-linked-list/
 - Day 9: Backspace String Compare - https://leetcode.com/problems/backspace-string-compare/
 - Day 10: Min Stack - https://leetcode.com/problems/min-stack/
+- Day 11: Diameter of Binary Tree - https://leetcode.com/problems/diameter-of-binary-tree/
