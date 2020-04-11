@@ -4,6 +4,7 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
 The page contains the code and explanation, for self study and review.
 
 # Challenges
+## Week 1
 - Day 1: Single Number - https://leetcode.com/problems/single-number/
 - Day 2: Happy Number - https://leetcode.com/problems/happy-number/
 - Day 3: Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
@@ -12,6 +13,7 @@ The page contains the code and explanation, for self study and review.
 - Day 6: Group Anagrams - https://leetcode.com/problems/group-anagrams/
 - Day 7: Counting Elements - https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/
 
-
+## Week 2
 - Day 8: Middle of the Linked List - https://leetcode.com/problems/middle-of-the-linked-list/
 - Day 9: Backspace String Compare - https://leetcode.com/problems/backspace-string-compare/
+- Day 10: Min Stack - https://leetcode.com/problems/min-stack/
