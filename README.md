@@ -1,4 +1,4 @@
-# 30-Day-LeetCoding-Challenge
+# 30 Day LeetCoding Challenge
 https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
 
 The page contains the code and explanation, for self study and review.
@@ -18,3 +18,4 @@ The page contains the code and explanation, for self study and review.
 - Day 9: Backspace String Compare - https://leetcode.com/problems/backspace-string-compare/
 - Day 10: Min Stack - https://leetcode.com/problems/min-stack/
 - Day 11: Diameter of Binary Tree - https://leetcode.com/problems/diameter-of-binary-tree/
+- Day 12: Last Stone Weight - https://leetcode.com/problems/last-stone-weight/
