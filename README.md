@@ -19,3 +19,4 @@ The page contains the code and explanation, for self study and review.
 - Day 10: Min Stack - https://leetcode.com/problems/min-stack/
 - Day 11: Diameter of Binary Tree - https://leetcode.com/problems/diameter-of-binary-tree/
 - Day 12: Last Stone Weight - https://leetcode.com/problems/last-stone-weight/
+- Day 13: Contiguous Array - https://leetcode.com/problems/contiguous-array/
