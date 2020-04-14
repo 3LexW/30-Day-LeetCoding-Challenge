@@ -20,3 +20,4 @@ The page contains the code and explanation, for self study and review.
 - Day 11: Diameter of Binary Tree - https://leetcode.com/problems/diameter-of-binary-tree/
 - Day 12: Last Stone Weight - https://leetcode.com/problems/last-stone-weight/
 - Day 13: Contiguous Array - https://leetcode.com/problems/contiguous-array/
+- Day 14: Perform String Shifts - https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/
