@@ -21,3 +21,7 @@ The page contains the code and explanation, for self study and review.
 - Day 12: Last Stone Weight - https://leetcode.com/problems/last-stone-weight/
 - Day 13: Contiguous Array - https://leetcode.com/problems/contiguous-array/
 - Day 14: Perform String Shifts - https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/
+
+## Week 3
+- Day 15: Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+- Day 16: Valid Parenthesis String - https://leetcode.com/problems/valid-parenthesis-string/
