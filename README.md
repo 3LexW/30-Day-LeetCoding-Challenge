@@ -28,3 +28,4 @@ The page contains the code and explanation, for self study and review.
 - Day 17: Number of Islands - https://leetcode.com/problems/number-of-islands/
 - Day 18: Minimum Path Sum - https://leetcode.com/problems/minimum-path-sum/
 - Day 19: Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
+- Day 20: Construct Binary Search Tree from Preorder Traversal - https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
