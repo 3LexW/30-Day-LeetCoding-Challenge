@@ -29,3 +29,6 @@ The page contains the code and explanation, for self study and review.
 - Day 19: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - Day 20: [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 - Day 21: [Leftmost Column with at Least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/)
+
+## Week 4
+- Day 22: [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
