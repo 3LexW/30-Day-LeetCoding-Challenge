@@ -34,3 +34,4 @@ The page contains the code and explanation, for self study and review.
 - Day 22: [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 - Day 23: [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 - Day 24: [LRU Cache](https://leetcode.com/problems/lru-cache/)
+- Day 25: [Jump Game](https://leetcode.com/problems/jump-game/)
