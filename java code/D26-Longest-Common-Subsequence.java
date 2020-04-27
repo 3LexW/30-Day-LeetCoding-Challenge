@@ -6,7 +6,7 @@ class Solution {
             for (int j = 1; j < text2.length() + 1; j++){
                 char c1 = text1.charAt(i-1);
                 char c2 = text2.charAt(j-1);
-                //Case 1: To subsequence have same length
+                //Case 1: Two subsequence have same length, extension from top left
                 if (c1 == c2){
                     dp[i][j] = dp[i-1][j-1] + 1;
                 }
