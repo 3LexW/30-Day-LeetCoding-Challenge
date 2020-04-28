@@ -37,3 +37,8 @@ The page contains the code and explanation, for self study and review.
 - Day 25: [Jump Game](https://leetcode.com/problems/jump-game/)
 - Day 26: [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - Day 27: [Maximal Square](https://leetcode.com/problems/maximal-square/)
+- Day 28: [First Unique Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)
+
+## Week 5
+- Day 29: -Pending-
+- Day 30: -Pending-
