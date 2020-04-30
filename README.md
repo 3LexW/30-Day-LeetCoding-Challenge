@@ -1,8 +1,10 @@
 # [30 Day LeetCoding Challenge](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/)
-
 The page contains the code and explanation, for self study and review.
 
 # Challenges
+<details>
+  <summary>Show the challenges in April, 2020</summary>
+
 ## Week 1
 - Day 1: [Single Number](https://leetcode.com/problems/single-number/)
 - Day 2: [Happy Number](https://leetcode.com/problems/happy-number/)
@@ -42,3 +44,4 @@ The page contains the code and explanation, for self study and review.
 ## Week 5
 - Day 29: [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - Day 30: [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/)
+</details>
