@@ -41,4 +41,4 @@ The page contains the code and explanation, for self study and review.
 
 ## Week 5
 - Day 29: [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-- Day 30: -Pending-
+- Day 30: [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/)
