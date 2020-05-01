@@ -53,6 +53,7 @@ The page contains the code and explanation, for self study and review.
   # [30 Day LeetCoding Challenge: May-2020](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
   
   ### Week 1
+  - Day 1: [First Bad Version](https://leetcode.com/problems/first-bad-version/)
   ### Week 2
   ### Week 3
   ### Week 4
