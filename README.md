@@ -54,6 +54,7 @@ The page contains the code and explanation, for self study and review.
   
   ### Week 1
   - Day 1: [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+  - Day 2: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
   ### Week 2
   ### Week 3
   ### Week 4
