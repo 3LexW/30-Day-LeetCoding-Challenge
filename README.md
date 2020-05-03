@@ -5,7 +5,7 @@ The page contains the code and explanation, for self study and review.
 <details>
   <summary>Show the challenges in April, 2020</summary>
 
-# [30 Day LeetCoding Challenge: Apr-2020](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/)
+## [30 Day LeetCoding Challenge: Apr-2020](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/)
 ### Week 1
 - Day 1: [Single Number](https://leetcode.com/problems/single-number/)
 - Day 2: [Happy Number](https://leetcode.com/problems/happy-number/)
@@ -50,16 +50,16 @@ The page contains the code and explanation, for self study and review.
 <details>
   <summary>Show the challenges in May, 2020</summary>
   
-  # [30 Day LeetCoding Challenge: May-2020](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
+## [30 Day LeetCoding Challenge: May-2020](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
   
-  ### Week 1
-  - Day 1: [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-  - Day 2: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
-  - Day 3: [Ransom Note](https://leetcode.com/problems/ransom-note/)
-  ### Week 2
-  ### Week 3
-  ### Week 4
-  ### Week 5
+### Week 1
+- Day 1: [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- Day 2: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+- Day 3: [Ransom Note](https://leetcode.com/problems/ransom-note/)
+### Week 2
+### Week 3
+### Week 4
+### Week 5
 </details>
 
 <!-- <details> -->
