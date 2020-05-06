@@ -58,6 +58,7 @@ The page contains the code and explanation, for self study and review.
 - Day 3: [Ransom Note](https://leetcode.com/problems/ransom-note/)
 - Day 4: [Number Complement](https://leetcode.com/problems/number-complement/)
 - Day 5: [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- Day 6: [Majority Element](https://leetcode.com/problems/majority-element/)
 ### Week 2
 ### Week 3
 ### Week 4
