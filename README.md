@@ -59,7 +59,9 @@ The page contains the code and explanation, for self study and review.
 - Day 4: [Number Complement](https://leetcode.com/problems/number-complement/)
 - Day 5: [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - Day 6: [Majority Element](https://leetcode.com/problems/majority-element/)
+- Day 7: [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
 ### Week 2
+- Day 8: [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 ### Week 3
 ### Week 4
 ### Week 5
