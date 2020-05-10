@@ -62,6 +62,8 @@ The page contains the code and explanation, for self study and review.
 - Day 7: [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
 ### Week 2
 - Day 8: [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
+- Day 9: [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+- Day 10: [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/submissions/)
 ### Week 3
 ### Week 4
 ### Week 5
