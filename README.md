@@ -66,6 +66,7 @@ The page contains the code and explanation, for self study and review.
 - Day 10: [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/submissions/)
 - Day 11: [Flood Fill](https://leetcode.com/problems/flood-fill/)
 - Day 12: [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- Day 13: [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 ### Week 3
 ### Week 4
 ### Week 5
