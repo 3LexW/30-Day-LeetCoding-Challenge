@@ -67,6 +67,7 @@ The page contains the code and explanation, for self study and review.
 - Day 11: [Flood Fill](https://leetcode.com/problems/flood-fill/)
 - Day 12: [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - Day 13: [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+- Day 14: [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 ### Week 3
 ### Week 4
 ### Week 5
