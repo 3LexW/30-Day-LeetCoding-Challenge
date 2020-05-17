@@ -69,6 +69,8 @@ The page contains the code and explanation, for self study and review.
 - Day 13: [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 - Day 14: [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 ### Week 3
+- Day 15: [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+- Day 16: [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 ### Week 4
 ### Week 5
 </details>
