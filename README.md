@@ -75,6 +75,7 @@ The page contains the code and explanation, for self study and review.
 - Day 18: [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 - Day 19: [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 - Day 20: [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- Day 21: [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 ### Week 4
 ### Week 5
 </details>
