@@ -77,6 +77,7 @@ The page contains the code and explanation, for self study and review.
 - Day 20: [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - Day 21: [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 ### Week 4
+- Day 22: [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 ### Week 5
 </details>
 
