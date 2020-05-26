@@ -81,6 +81,7 @@ The page contains the code and explanation, for self study and review.
 - Day 23: [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 - Day 24: [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 - Day 25: [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
+- Day 26: [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 ### Week 5
 </details>
 
