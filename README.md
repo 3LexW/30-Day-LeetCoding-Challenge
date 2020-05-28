@@ -82,6 +82,8 @@ The page contains the code and explanation, for self study and review.
 - Day 24: [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 - Day 25: [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
 - Day 26: [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+- Day 27: [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
+- Day 28: [Counting Bits](https://leetcode.com/problems/counting-bits/)
 ### Week 5
 </details>
 
